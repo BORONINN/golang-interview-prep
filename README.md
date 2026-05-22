@@ -1,4 +1,4 @@
-# Golang Interview Prep - AlgoCode
+# Golang Interview Prep - **[AlgoCode](https://algocode.io/community)**
 
 Конспекты и задачи для подготовки к техническому собеседованию по Go.
 
