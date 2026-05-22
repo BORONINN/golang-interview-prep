@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "de33eb1cd74cca38",
+    "type": "split",
+    "children": [
+      {
+        "id": "497112fb93ae74b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c95f15c57316c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9497191aa2041c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a73807cf538e4b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e4e7355c5cbce27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0ae6c2ce101694cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "fdc6144171ecd183",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "287600b4b69231ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b4f6e56086fc34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b24a161f290238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "0df08f8a02076c05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "398a8bd5827fe0ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4b72c1a5ecfc79a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "86c90206c514c349",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "82c95f15c57316c0",
+  "lastOpenFiles": [
+    "AlgoCode Golang подготовка к тех собесу 3/Неделя 4/6. Пакет sync/4. Конкурентный подсчет слов.md",
+    "Подготовка к тех собесу/Неделя 4/6. Пакет sync/4. Конкурентный подсчет слов.md",
+    "Подготовка к тех собесу/Неделя 4/6. Пакет sync/3. Пул соединений с блокирующим ожиданием.md",
+    "Подготовка к тех собесу/Неделя 4/6. Пакет sync/2. Singleton с ленивой инициализацией.md",
+    "Подготовка к тех собесу/Неделя 4/6. Пакет sync/1. Синхронизация в Go - Once, Cond, Map и Pool.md",
+    "Подготовка к тех собесу/Неделя 4/5. Взвешенный semaphore/2. Ограниченный пул горутин на семафоре.md",
+    "Подготовка к тех собесу/Неделя 4/5. Взвешенный semaphore/1. Взвешенный семафор.md",
+    "Подготовка к тех собесу/Неделя 4/4. Semaphore/2. Потокобезопасный семафор.md",
+    "Подготовка к тех собесу/Неделя 4/4. Semaphore/1. Семафор.md",
+    "Подготовка к тех собесу/Неделя 4/3. Error group/2. Rate-limited request processor.md",
+    "Подготовка к тех собесу/Неделя 4/3. Error group/1. Error group.md",
+    "Подготовка к тех собесу/Неделя 4/2. Worker pool/2. Асинхронный исполнитель с каналом ответов.md",
+    "Подготовка к тех собесу/Неделя 4/2. Worker pool/1. WorkerPool.md",
+    "Подготовка к тех собесу/Неделя 4/1. Fan-in  fan-out/4. Конвейерный сумматор.md",
+    "Подготовка к тех собесу/Неделя 4/1. Fan-in  fan-out/3. FanOut для каналов.md",
+    "Подготовка к тех собесу/Неделя 4/1. Fan-in  fan-out/2. FanIn для каналов.md",
+    "Подготовка к тех собесу/Неделя 4/1. Fan-in  fan-out/1. Fan-in    fan-out.md",
+    "Подготовка к тех собесу/Неделя 3/4. Дополнительно/2. Атомарный потокобезопасный счетчик.md",
+    "Подготовка к тех собесу/Неделя 3/4. Дополнительно/1. Атомики.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/8. Инструменты поиска гонки.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/7. Отложенное исполнение функции.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/6. Конкурентная обработка.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/5. Ревью- долгое вычисление.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/4. Фоновая загрузка конфига с обновлением.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/3. Потокобезопасный кеш.md",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы/2. Потокобезопасный счетчик.md",
+    "Подготовка к тех собесу/Неделя 4/6. Пакет sync",
+    "Подготовка к тех собесу/Неделя 4/5. Взвешенный semaphore",
+    "Подготовка к тех собесу/Неделя 4/4. Semaphore",
+    "Подготовка к тех собесу/Неделя 4/3. Error group",
+    "Подготовка к тех собесу/Неделя 4/2. Worker pool",
+    "Подготовка к тех собесу/Неделя 4/1. Fan-in  fan-out",
+    "Подготовка к тех собесу/Неделя 3/4. Дополнительно",
+    "Подготовка к тех собесу/Неделя 3/3. Мьютексы",
+    "Подготовка к тех собесу/Неделя 3/2. WaitGroup",
+    "Подготовка к тех собесу/Неделя 3/1. Каналы"
+  ]
+}
